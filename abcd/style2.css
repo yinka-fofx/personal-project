@@ -1,0 +1,40 @@
+header {
+    height: 80px;
+    background-color: pink;
+}
+.first-nav li{
+    display: inline;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    float: right;
+    overflow: hidden;
+}
+
+.first-nav a {
+    display: block;
+    padding: 14px 16px;
+    background-color: burlywood;
+    opacity: 0.7;
+    /* border: 2px solid; */
+    margin-left: 10px;
+    padding: 10px;
+    height: 60px;
+    box-shadow: bisque;
+    outline: white;
+    text-decoration-line: none;
+    text-align: center;
+
+}
+
+.topnav img{
+    float: left;
+    height:100; width:100px;
+    imag
+    
+}
+
+#hero{ height: auto; width:1000px;
+    
+
+::-webkit-slider-thumb
+}
